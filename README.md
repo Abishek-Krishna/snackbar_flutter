@@ -1,10 +1,10 @@
 # demo
 
-A new Flutter project.
+A new Flutter Widget (Snackbar).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This code is a starting point for a Flutter Snackbar application.
 
 A few resources to get you started if this is your first Flutter project:
 
